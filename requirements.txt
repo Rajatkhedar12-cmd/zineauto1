@@ -1,6 +1,6 @@
 Flask
 transformers
-torch
+tensorflow
 pandas
 requests
 beautifulsoup4
